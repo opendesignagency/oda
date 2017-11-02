@@ -7,12 +7,13 @@ The Open Design Agency needs your support. It's early days and we need all the h
 * Improve this document with your own insight and ideas (either [raise an issue](https://github.com/opendesignagency/oda/issues), or fork this repo and issue a pull request with your changes).
 * Share a this document with friends and colleagues.
 * Invite us to talk about the ODA at your conference, event or within your organisation.
-* Sign up as a contributor, essentially offering to become a member of the our community and participate in our work in whatever capacity you can. I.e., as an organiser, designer (graphic/UX/Service/etc.), developer, reviewer, lawyer, accountant, marketer, advisor, sysadmin, etc.
+* Sign up as a contributor, essentially offering to become a member of the our community and participate in our work in whatever capacity you can. I.e., as an organiser, designer (graphic/UX/Service/etc.), developer, reviewer, lawyer, accountant, marketer, advisor, sysadmin, crypto-anarchist, economist, philosopher, etc.
 * Sign up as a client, tell us what kind of work you would like us to undertake with your organisation.
 * Offer the use of physical space for our work.
-* If you run or work at a design agency, either allow your staff to contribute their time to our effors or encourage your managers to let you do so.
+* If you run or work at a design agency, either allow your staff to contribute their time or encourage your managers to let you do so.
 * Donate intellectual property by releasing it under an appropriate license.
 * Donate money to fund our efforts (when we figure out how to legally do this, you could help with figuring this out too).
+* Something else, you tell us.
 
 ## Goals
 * Bring design work out from behind the closed-doors of design studios and into the open. With total transparency and availability of information to those doing the work and those paying for the work to be done.
